@@ -1,3 +1,5 @@
-#section2 {
-  color: purple;
+#important {
+  color: red;
+  font-weight: bold;
+  font-family: sans-serif;
 }
